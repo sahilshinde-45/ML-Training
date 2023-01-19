@@ -1,0 +1,20 @@
+step 1 
+ Create a matrix of independent variable
+ Create a matrix of dependent variable
+ 
+ step 2
+ deal with missing values
+  a) delete the row 
+  	OR
+  b) take the mean of the column 
+
+
+
+
+
+
+
+
+understand :
+iloc syntax
+pandas.dataset.iloc[row, column]
